@@ -248,3 +248,6 @@ Setelah login, Anda akan masuk ke halaman Dashboard:
 - Tidak bisa back ke Dashboard setelah logout ✅
 
 ---
+
+*Dikembangkan oleh*: Nur Muhammad Anang Febriananto - 230605110103 
+*Mata Kuliah*: Mobile Programming (Teori-Praktikum)
