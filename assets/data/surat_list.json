@@ -1,0 +1,114 @@
+[
+  {
+    "number": 1,
+    "name": "Al-Fatihah",
+    "nameArabic": "الفاتحة",
+    "nameTranslation": "Pembukaan",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 7
+  },
+  {
+    "number": 2,
+    "name": "Al-Baqarah",
+    "nameArabic": "البقرة",
+    "nameTranslation": "Sapi Betina",
+    "revelationType": "Madaniyyah",
+    "numberOfAyat": 286
+  },
+  {
+    "number": 3,
+    "name": "Ali 'Imran",
+    "nameArabic": "آل عمران",
+    "nameTranslation": "Keluarga Imran",
+    "revelationType": "Madaniyyah",
+    "numberOfAyat": 200
+  },
+  {
+    "number": 4,
+    "name": "An-Nisa",
+    "nameArabic": "النساء",
+    "nameTranslation": "Wanita",
+    "revelationType": "Madaniyyah",
+    "numberOfAyat": 176
+  },
+  {
+    "number": 5,
+    "name": "Al-Ma'idah",
+    "nameArabic": "المائدة",
+    "nameTranslation": "Hidangan",
+    "revelationType": "Madaniyyah",
+    "numberOfAyat": 120
+  },
+  {
+    "number": 18,
+    "name": "Al-Kahf",
+    "nameArabic": "الكهف",
+    "nameTranslation": "Gua",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 110
+  },
+  {
+    "number": 36,
+    "name": "Ya-Sin",
+    "nameArabic": "يس",
+    "nameTranslation": "Ya Sin",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 83
+  },
+  {
+    "number": 55,
+    "name": "Ar-Rahman",
+    "nameArabic": "الرحمن",
+    "nameTranslation": "Yang Maha Pemurah",
+    "revelationType": "Madaniyyah",
+    "numberOfAyat": 78
+  },
+  {
+    "number": 56,
+    "name": "Al-Waqi'ah",
+    "nameArabic": "الواقعة",
+    "nameTranslation": "Hari Kiamat",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 96
+  },
+  {
+    "number": 67,
+    "name": "Al-Mulk",
+    "nameArabic": "الملك",
+    "nameTranslation": "Kerajaan",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 30
+  },
+  {
+    "number": 78,
+    "name": "An-Naba",
+    "nameArabic": "النبإ",
+    "nameTranslation": "Berita Besar",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 40
+  },
+  {
+    "number": 112,
+    "name": "Al-Ikhlas",
+    "nameArabic": "الإخلاص",
+    "nameTranslation": "Ikhlas",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 4
+  },
+  {
+    "number": 113,
+    "name": "Al-Falaq",
+    "nameArabic": "الفلق",
+    "nameTranslation": "Waktu Subuh",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 5
+  },
+  {
+    "number": 114,
+    "name": "An-Nas",
+    "nameArabic": "الناس",
+    "nameTranslation": "Manusia",
+    "revelationType": "Makkiyyah",
+    "numberOfAyat": 6
+  }
+]

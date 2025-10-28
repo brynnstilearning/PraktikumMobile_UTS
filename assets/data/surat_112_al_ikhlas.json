@@ -1,0 +1,38 @@
+{
+  "number": 112,
+  "name": "Al-Ikhlas",
+  "nameArabic": "الإخلاص",
+  "nameTranslation": "Ikhlas",
+  "revelationType": "Makkiyyah",
+  "numberOfAyat": 4,
+  "ayatList": [
+    {
+      "number": 1,
+      "numberInSurat": 1,
+      "textArabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "textTransliteration": "Qul huwallaahu ahad",
+      "textTranslation": "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa.\""
+    },
+    {
+      "number": 2,
+      "numberInSurat": 2,
+      "textArabic": "اللَّهُ الصَّمَدُ",
+      "textTransliteration": "Allaahush-shamad",
+      "textTranslation": "Allah tempat meminta segala sesuatu."
+    },
+    {
+      "number": 3,
+      "numberInSurat": 3,
+      "textArabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "textTransliteration": "Lam yalid wa lam yoolad",
+      "textTranslation": "(Dia) tidak beranak dan tidak pula diperanakkan."
+    },
+    {
+      "number": 4,
+      "numberInSurat": 4,
+      "textArabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "textTransliteration": "Wa lam yakul-lahu kufuwan ahad",
+      "textTranslation": "Dan tidak ada sesuatu yang setara dengan Dia.\""
+    }
+  ]
+}
